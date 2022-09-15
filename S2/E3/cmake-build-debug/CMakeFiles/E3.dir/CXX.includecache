@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/IamBihonda/Desktop/UTEC/C2/P2/Mentorias/S2/E3/funciones.cpp
+funciones.h
+/Users/IamBihonda/Desktop/UTEC/C2/P2/Mentorias/S2/E3/funciones.h
+iostream
+-
+
+/Users/IamBihonda/Desktop/UTEC/C2/P2/Mentorias/S2/E3/funciones.h
+
+/Users/IamBihonda/Desktop/UTEC/C2/P2/Mentorias/S2/E3/main.cpp
+iostream
+-
+funciones.h
+/Users/IamBihonda/Desktop/UTEC/C2/P2/Mentorias/S2/E3/funciones.h
+
